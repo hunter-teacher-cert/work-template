@@ -1,9 +1,8 @@
-* Last name:
-* First name:
-* Github username:
+#### Last name:
+#### First name:
+#### Github username:
 
-* Instructions:
-
+#### Instructions:
 Fill out the top of this form, commit and push it back to GitHub.
 
 Weekly assignments can be found here: https://github.com/hunter-teacher-cert/sedc73600-currdev-fall22/blob/main/assignments.md
